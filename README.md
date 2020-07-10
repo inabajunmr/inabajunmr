@@ -1,8 +1,1 @@
-![face](https://avatars3.githubusercontent.com/u/10000393?s=60&v=4)
-![face](https://avatars3.githubusercontent.com/u/10000393?s=90&v=4)
-
-![face](https://avatars3.githubusercontent.com/u/10000393?s=120&v=4)
-![face](https://avatars3.githubusercontent.com/u/10000393?s=180&v=4)
-
-![face](https://avatars3.githubusercontent.com/u/10000393?s=240&v=4)
-![face](https://avatars3.githubusercontent.com/u/10000393?s=360&v=4)
+![funny image](https://user-images.githubusercontent.com/10000393/87157383-27499380-c2f9-11ea-83a3-33a2abdb903a.png)
